@@ -1,1 +1,1 @@
-Testando comandos de git pull e git push
+Testando comandos de git pull e git push.

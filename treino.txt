@@ -1,1 +1,1 @@
-Isto é um arquivo de texto exemplo para treinar o uso dos comandos básicos do Git
+Isto é um arquivo de texto exemplo para treinar o uso dos comandos básicos do Git.
